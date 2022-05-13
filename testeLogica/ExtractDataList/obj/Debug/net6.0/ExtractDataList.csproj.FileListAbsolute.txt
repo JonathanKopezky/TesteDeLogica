@@ -1,0 +1,11 @@
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\bin\Debug\net6.0\ExtractDataList.deps.json
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\bin\Debug\net6.0\ExtractDataList.dll
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\bin\Debug\net6.0\ref\ExtractDataList.dll
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\bin\Debug\net6.0\ExtractDataList.pdb
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\obj\Debug\net6.0\ExtractDataList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\obj\Debug\net6.0\ExtractDataList.AssemblyInfoInputs.cache
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\obj\Debug\net6.0\ExtractDataList.AssemblyInfo.cs
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\obj\Debug\net6.0\ExtractDataList.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\obj\Debug\net6.0\ExtractDataList.dll
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\obj\Debug\net6.0\ref\ExtractDataList.dll
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\ExtractDataList\obj\Debug\net6.0\ExtractDataList.pdb

@@ -1,0 +1,12 @@
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\bin\Debug\net6.0\CalculateArea.deps.json
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\bin\Debug\net6.0\CalculateArea.dll
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\bin\Debug\net6.0\ref\CalculateArea.dll
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\bin\Debug\net6.0\CalculateArea.pdb
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\obj\Debug\net6.0\CalculateArea.csproj.AssemblyReference.cache
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\obj\Debug\net6.0\CalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\obj\Debug\net6.0\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\obj\Debug\net6.0\CalculateArea.AssemblyInfo.cs
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\obj\Debug\net6.0\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\obj\Debug\net6.0\CalculateArea.dll
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\obj\Debug\net6.0\ref\CalculateArea.dll
+C:\Users\jonathan.oliveira\Desktop\TesteLogica\TesteDeLogica\testeLogica\CalculateArea\obj\Debug\net6.0\CalculateArea.pdb

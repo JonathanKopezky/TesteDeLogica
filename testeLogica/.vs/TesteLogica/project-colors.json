@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af816c09-d255-470b-8758-ffaee7dd0314": {
+      "ProjectGuid": "af816c09-d255-470b-8758-ffaee7dd0314",
+      "DisplayName": "Teste1",
+      "ColorIndex": 0
+    },
+    "e5cb00fe-00cf-44c4-a6c9-d6fc9ddfdec9": {
+      "ProjectGuid": "e5cb00fe-00cf-44c4-a6c9-d6fc9ddfdec9",
+      "DisplayName": "CalcArea",
+      "ColorIndex": 1
+    },
+    "2b944063-7bda-4179-8fd9-167129ca5c58": {
+      "ProjectGuid": "2b944063-7bda-4179-8fd9-167129ca5c58",
+      "DisplayName": "CalcularArea",
+      "ColorIndex": 2
+    },
+    "ede631e9-0d3a-4b0c-9d5d-469e5066c9b2": {
+      "ProjectGuid": "ede631e9-0d3a-4b0c-9d5d-469e5066c9b2",
+      "DisplayName": "Main",
+      "ColorIndex": 3
+    },
+    "4305009d-b981-41b9-9c6f-797009661a97": {
+      "ProjectGuid": "4305009d-b981-41b9-9c6f-797009661a97",
+      "DisplayName": "CalculateArea",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
